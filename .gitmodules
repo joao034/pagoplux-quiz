@@ -1,0 +1,6 @@
+[submodule "pagoplux-frontend"]
+	path = pagoplux-frontend
+	url = https://github.com/joao034/pagoplux-frontend.git
+[submodule "pagoplux-backend"]
+	path = pagoplux-backend
+	url = https://github.com/joao034/pagoplux-backend.git
